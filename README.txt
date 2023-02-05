@@ -1,3 +1,5 @@
+THIS REPOSITORY REQUIRES VOCAB AND TRAINING FILES TO PROPERLY RUN! The full project with both input and output files can be found here https://www.dropbox.com/s/hffycnuklzacs0w/Project2.rar?dl=0.
+
 Steps to open and run NB.py
 1. Extract tar content in the same folder
 2. Open NB.py using Microsoft Visual Studio.
